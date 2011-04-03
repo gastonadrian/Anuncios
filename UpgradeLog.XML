@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Anuncios">
+</Property><Property Name="Solution File" Value="C:\Users\Gaston\Documents\Visual Studio 2010\Projects\Anuncios\Anuncios\Anuncios\Anuncios.sln">
+</Property><Property Name="Date" Value="sábado, 02 de abril de 2011">
+</Property><Property Name="Time" Value="18:07">
+</Property></Properties><Event ErrorLevel="0" Project="Anuncios.Core" Source="app\Anuncios.Core\Anuncios.Core.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Anuncios.Core" Source="app\Anuncios.Core\Anuncios.Core.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Anuncios.ApplicationServices" Source="app\Anuncios.ApplicationServices\Anuncios.ApplicationServices.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Anuncios.ApplicationServices" Source="app\Anuncios.ApplicationServices\Anuncios.ApplicationServices.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Anuncios.Data" Source="app\Anuncios.Data\Anuncios.Data.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Anuncios.Data" Source="app\Anuncios.Data\Anuncios.Data.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Anuncios.Web.Controllers" Source="app\Anuncios.Web.Controllers\Anuncios.Web.Controllers.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Anuncios.Web.Controllers" Source="app\Anuncios.Web.Controllers\Anuncios.Web.Controllers.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Anuncios.Tests" Source="tests\Anuncios.Tests\Anuncios.Tests.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Anuncios.Tests" Source="tests\Anuncios.Tests\Anuncios.Tests.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Anuncios.Web" Source="app\Anuncios.Web\Anuncios.Web.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Anuncios.Web" Source="app\Anuncios.Web\Anuncios.Web.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CrudScaffolding" Source="tools\CrudScaffolding\CrudScaffolding.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CrudScaffolding" Source="tools\CrudScaffolding\CrudScaffolding.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Anuncios.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Anuncios.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CrudScaffolding" Source="tools\CrudScaffolding\CrudScaffolding.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Anuncios.Core" Source="app\Anuncios.Core\Anuncios.Core.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Anuncios.ApplicationServices" Source="app\Anuncios.ApplicationServices\Anuncios.ApplicationServices.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Anuncios.Data" Source="app\Anuncios.Data\Anuncios.Data.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Anuncios.Web.Controllers" Source="app\Anuncios.Web.Controllers\Anuncios.Web.Controllers.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Anuncios.Tests" Source="tests\Anuncios.Tests\Anuncios.Tests.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Anuncios.Web" Source="app\Anuncios.Web\Anuncios.Web.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

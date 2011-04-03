@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Generation", "Code Generation", "{F0E445C9-69F2-4DDA-BA9F-7D654A8A5827}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anuncios.Core", "app\Anuncios.Core\Anuncios.Core.csproj", "{4FCB7DE4-3D22-436D-81B2-CC5579755D3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anuncios.ApplicationServices", "app\Anuncios.ApplicationServices\Anuncios.ApplicationServices.csproj", "{A921E9CA-2DC6-401B-BD35-A903F9DD594B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anuncios.Data", "app\Anuncios.Data\Anuncios.Data.csproj", "{DE9A55E7-4138-4AB1-9BA4-D4304E9D0EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anuncios.Web.Controllers", "app\Anuncios.Web.Controllers\Anuncios.Web.Controllers.csproj", "{F342D634-53F8-432F-A834-6751E31CA6FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anuncios.Tests", "tests\Anuncios.Tests\Anuncios.Tests.csproj", "{2381451E-7072-4590-83A8-AEC8424A99FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anuncios.Web", "app\Anuncios.Web\Anuncios.Web.csproj", "{4C09DB80-A88E-44C4-89D7-5DDF385A8130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudScaffolding", "tools\CrudScaffolding\CrudScaffolding.csproj", "{F2F997C5-D65B-4731-83E8-B831AF869CA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FCB7DE4-3D22-436D-81B2-CC5579755D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FCB7DE4-3D22-436D-81B2-CC5579755D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FCB7DE4-3D22-436D-81B2-CC5579755D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FCB7DE4-3D22-436D-81B2-CC5579755D3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A921E9CA-2DC6-401B-BD35-A903F9DD594B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A921E9CA-2DC6-401B-BD35-A903F9DD594B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A921E9CA-2DC6-401B-BD35-A903F9DD594B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A921E9CA-2DC6-401B-BD35-A903F9DD594B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE9A55E7-4138-4AB1-9BA4-D4304E9D0EDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9A55E7-4138-4AB1-9BA4-D4304E9D0EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9A55E7-4138-4AB1-9BA4-D4304E9D0EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9A55E7-4138-4AB1-9BA4-D4304E9D0EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F342D634-53F8-432F-A834-6751E31CA6FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F342D634-53F8-432F-A834-6751E31CA6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F342D634-53F8-432F-A834-6751E31CA6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F342D634-53F8-432F-A834-6751E31CA6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2381451E-7072-4590-83A8-AEC8424A99FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2381451E-7072-4590-83A8-AEC8424A99FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2381451E-7072-4590-83A8-AEC8424A99FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2381451E-7072-4590-83A8-AEC8424A99FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C09DB80-A88E-44C4-89D7-5DDF385A8130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C09DB80-A88E-44C4-89D7-5DDF385A8130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C09DB80-A88E-44C4-89D7-5DDF385A8130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C09DB80-A88E-44C4-89D7-5DDF385A8130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F997C5-D65B-4731-83E8-B831AF869CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F997C5-D65B-4731-83E8-B831AF869CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F2F997C5-D65B-4731-83E8-B831AF869CA7} = {F0E445C9-69F2-4DDA-BA9F-7D654A8A5827}
+	EndGlobalSection
+EndGlobal
